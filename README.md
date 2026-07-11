@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Mobin Madadi
 
-<!--
-**Mobin-Madadi/Mobin-Madadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer
 
-Here are some ideas to get you started:
+🖥️ Desktop App Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Python
+- AI
+- Machine Learning
+
+🚀 Projects
+- 🧮 Number Challenge
+- ...
+
+📫 Contact
+Email: mobinmadadix@gamil.com
