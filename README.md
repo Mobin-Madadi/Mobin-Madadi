@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-💫 About Me:<br>💻 Currently learning Python and improving my software development skills.<br>🖥️ Interested in Desktop Application Development, Automation, and Artificial Intelligence.<br>🎯 I enjoy creating practical projects with clean and modern user interfaces.<br>📚 Always learning and exploring new technologies.<br>🌱 My goal is to become a professional Machine Learning and Ai projects.<br>
+💫 About Me:<br>💻 Currently learning Python and improving my software development skills.<br>🖥️ Interested in Automation, and Artificial Intelligence.<br>🎯 I enjoy creating practical projects with clean and modern user interfaces.<br>📚 Always learning and exploring new technologies.<br>🌱 My goal is to become a professional Machine Learning and Ai projects.<br>
 
 
 
