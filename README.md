@@ -24,7 +24,7 @@ I'm a Python developer passionate about building practical projects, learning ne
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pandas,numpy,sklearn,git,github,vscode,jupyter" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,git,github,vscode,jupyter" />
 
 </p>
 
@@ -62,9 +62,9 @@ A desktop math game built with Python and CustomTkinter.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mobin-Madadi&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mobin-Madadi&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-Madadi&layout=compact&hide_border=true" height="170"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mobin-Madadi&layout=compact&hide_border=true" height="170"/>
 
 </p>
 
@@ -76,6 +76,14 @@ A desktop math game built with Python and CustomTkinter.
 
 <img src="https://streak-stats.demolab.com?user=Mobin-Madadi&hide_border=true" />
 
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mobin-Madadi/Mobin-Madadi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
