@@ -30,7 +30,6 @@ I enjoy turning ideas into real applications and learning through hands-on proje
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/CustomTkinter-2B2B2B?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 📊 Data Science & Machine Learning
