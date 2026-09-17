@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Mobin Madadi
 
-### 💻 Python Developer | 🤖 AI & Machine Learning Enthusiast
+### 💻 Python Developer | 🤖 Machine Learning Developer in Progress
 
 I'm a Python developer focused on building practical projects and continuously improving my skills in **Python, Machine Learning, Data Science, and Artificial Intelligence**.
 
