@@ -6,30 +6,42 @@
 
 ### 💻 Python Developer | 🤖 Machine Learning Developer in Progress
 
-I'm a Python developer focused on building practical projects and continuously improving my skills in **Python, Machine Learning, Data Science, and Artificial Intelligence**.
+I'm a Python developer currently focused on **Machine Learning, Data Science, and practical AI projects**.
 
-I enjoy turning ideas into real applications and learning through hands-on projects.
+I enjoy learning through hands-on projects, working with real datasets, and turning ideas into practical applications.
 
 ---
 
 ## 🚀 About Me
 
 * 🐍 Focused on **Python development**
-* 🤖 Learning **Machine Learning & Artificial Intelligence**
+* 🤖 Currently learning **Machine Learning**
 * 📊 Exploring **Data Science & Data Analysis**
+* 📈 Practicing **Regression & Classification**
 * ⚡ Building **APIs, automation tools, and desktop applications**
-* 🧠 Learning through real-world projects
+* 🧠 Learning through practical projects
 * 🎯 Working toward becoming a **Machine Learning / AI Developer**
+
+---
+
+## 📚 Currently Learning
+
+* Machine Learning
+* Classification Algorithms
+* Regression Algorithms
+* Model Evaluation
+* Feature Scaling & Data Preprocessing
+* Data Analysis with Python
+* Deep Learning fundamentals
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🐍 Programming & Frameworks
+### 🐍 Programming
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ### 📊 Data Science & Machine Learning
@@ -42,9 +54,11 @@ I enjoy turning ideas into real applications and learning through hands-on proje
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### ⚙️ Tools & Development
+### ⚙️ Development & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/CustomTkinter-2B2B2B?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -61,6 +75,18 @@ A Machine Learning project that predicts car prices based on vehicle features.
 **Tech:** Python · NumPy · Pandas · Scikit-learn · Matplotlib · Jupyter
 
 🔗 [View Repository](https://github.com/Mobin-Madadi/car-price-prediction-ml)
+
+---
+
+### 🌸 Iris Classification with KNN
+
+A Machine Learning classification project that uses the **K-Nearest Neighbors (KNN)** algorithm to classify Iris flower species.
+
+The project covers data exploration, feature scaling, train/test splitting, model training, prediction, and evaluation.
+
+**Tech:** Python · NumPy · Pandas · Scikit-learn · Matplotlib · Jupyter
+
+🔗 [View Repository](https://github.com/Mobin-Madadi/iris-knn-classification)
 
 ---
 
@@ -103,13 +129,6 @@ A desktop mathematics game built with Python and CustomTkinter.
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mobin-Madadi&hide_border=true">
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -121,11 +140,13 @@ A desktop mathematics game built with Python and CustomTkinter.
 
 ## 🎯 2026 Goals
 
-* [ ] Become stronger in Python
-* [ ] Build more Machine Learning projects
-* [ ] Learn Deep Learning
-* [ ] Improve my Data Science skills
-* [ ] Build real-world AI applications
+* [x] Strengthen Python skills
+* [x] Build regression projects
+* [x] Practice classification with KNN
+* [ ] Build more real-world Machine Learning projects
+* [ ] Learn Deep Learning fundamentals
+* [ ] Improve Data Science skills
+* [ ] Build end-to-end ML applications
 * [ ] Contribute to Open Source
 
 ---
@@ -147,4 +168,3 @@ A desktop mathematics game built with Python and CustomTkinter.
 <p align="center">
   <i>Learning. Building. Improving. 🚀</i>
 </p>
-
